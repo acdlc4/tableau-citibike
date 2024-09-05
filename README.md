@@ -17,15 +17,19 @@ The viz maps out all of the individual Citi Bike locations for the months of Feb
     Use the AM hours to redistribute and maintain bicycles to make sure bikes are available for the daily PM rush
 This visualization provides the hourly rider use for the month of August 2023 along with bike type use.  From this, we can see highest overall use from 8AM through 9PM and from the pie chart provided, only 30.2% of ride starts begin in the morning hours (i.e. 12AM - 12PM).  In addition to the preference of starting rides after 12PM, the viz provides information that outlines rider preference of bike types (classic vs. electric) overall and per hour.  As is seen, overall use shows a minimal preference for electric bikes over the classic bikes by 2.6%, which is not significant.  The preference for electric bikes largely seen during the hours of 7PM up to 8AM.
 
-### Vizualization location
+##
+### Vizualization Location
 - https://public.tableau.com/app/profile/adrian.de.la.cruz/viz/citibike_17249716605930/Story
 
-### Data sources
-#### Summary:
+### Data Sources
+#### Citi Bike Summary
 - https://citibikenyc.com/system-data
 
-#### Direct source:
+#### Citi Bike Direct Source
 - https://s3.amazonaws.com/tripdata/index.html
+
+#### NYC Weather Data
+- https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/retrievebulkdataset?&key=5PMLT687G7E4UUPDFWHGBS65E&taskId=fddeeb92e1b44b29110cea886ac37872&zip=false
 
 ##
 ### Any questions?
